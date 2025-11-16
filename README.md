@@ -16,4 +16,4 @@ The output of `train.py` indicates the time spent computing each feature and tra
 3. Run `python train.py` to train each classifier on the filtered dataset. Specify mutation rates with e.g. `-r 0.05`.
 4. For each evaluation dataset, run `python eval.py -f /path/to/dataset.fa` to print a confusion matrix and sensitivity and specificity for each classifier. Ensure that you have run `train.py -r X` before running `eval.py -r X`. Include `--save` to generate `.csv` files containing feature values in ground truth and mutated sequences.
 
-We also include our candidate feature evaluation experiments in `feature_selection.ipynb` and our full analysis notebook `analysis.ipynb`. The latter is intended to be used after running `python eval.py -r X --save` on SSU Ref with `X` in `[0.1, 0.05, 0.01]`. SSU Ref is available on the same webpage as SSU Ref NR 99.
+We also include our candidate feature evaluation experiments in `feature_selection.ipynb` and our full analysis notebook `analysis.ipynb`. The latter is intended to be used after running `python eval.py -r {0.1, 0.05, 0.1} --save` on SSU Ref. SSU Ref is available on the same webpage as SSU Ref NR 99.
