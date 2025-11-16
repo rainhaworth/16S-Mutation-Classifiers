@@ -1,0 +1,34 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds
+GCF_000006945.2	ASM694v2	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2		LT2					Annotation submitted by NCBI RefSeq	Complete Genome	2016-01-13		2
+GCF_000195955.2	ASM19595v2	Mycobacterium tuberculosis H37Rv		H37Rv					Annotation submitted by NCBI RefSeq	Complete Genome	2013-02-01		1
+GCF_000009045.1	ASM904v1	Bacillus subtilis subsp. subtilis str. 168		168					Annotation submitted by NCBI RefSeq	Complete Genome	2009-08-12		1
+GCF_009035845.1	ASM903584v1	Acinetobacter baumannii		ATCC 19606					GCF_009035845.1-RS_2025_03_30	Complete Genome	2019-10-16		3
+GCF_001457635.1	NCTC7465	Streptococcus pneumoniae		NCTC7465					GCF_001457635.1-RS_2024_10_11	Complete Genome	2015-03-22		1
+GCF_000412675.1	ASM41267v1	Pseudomonas putida NBRC 14164		NBRC 14164					GCF_000412675.1-RS_2024_12_11	Complete Genome	2013-06-14		1
+GCF_025998455.1	ASM2599845v1	Helicobacter pylori		CHC155					GCF_025998455.1-RS_2024_12_09	Complete Genome	2022-10-20		1
+GCF_006094375.1	ASM609437v1	Staphylococcus epidermidis		ATCC 14990					GCF_006094375.1-RS_2025_04_23	Complete Genome	2019-06-06		3
+GCF_900186865.1	49243_F02	Stenotrophomonas maltophilia		NCTC10257					GCF_900186865.1-RS_2025_05_06	Complete Genome	2017-08-15		1
+GCF_006094495.1	ASM609449v1	Priestia megaterium NBRC 15308 = ATCC 14581		ATCC 14581					GCF_006094495.1-RS_2025_05_17	Complete Genome	2019-06-06		7
+GCF_000196555.1	ASM19655v1	Bifidobacterium longum subsp. longum JCM 1217		JCM 1217					GCF_000196555.1-RS_2024_12_11	Complete Genome	2011-01-28		1
+GCF_022869645.1	ASM2286964v1	Neisseria meningitidis		PartJ-Nmeningitidis-RM8376					GCF_022869645.1-RS_2025_04_26	Complete Genome	2022-04-11		1
+GCF_000014805.1	ASM1480v1	Aeromonas hydrophila subsp. hydrophila ATCC 7966		ATCC 7966					GCF_000014805.1-RS_2024_12_11	Complete Genome	2006-11-06		1
+GCF_016027375.1	ASM1602737v1	Clostridium perfringens		FDAARGOS_903					GCF_016027375.1-RS_2024_10_16	Complete Genome	2020-12-14		2
+GCF_000007125.1	ASM712v1	Brucella melitensis bv. 1 str. 16M		16M					GCF_000007125.1-RS_2025_04_15	Complete Genome	2001-12-28		2
+GCF_030297255.1	ASM3029725v1	Burkholderia pseudomallei		GTC3P0254T					GCF_030297255.1-RS_2025_06_21	Complete Genome	2023-05-16		2
+GCF_001941585.1	ASM194158v1	Legionella pneumophila		Philadelphia-1			AE		GCF_001941585.1-RS_2025_03_05	Complete Genome	2017-01-10		1
+GCF_020736045.1	ASM2073604v1	Haemophilus influenzae		FDAARGOS_1560					GCF_020736045.1-RS_2024_12_09	Complete Genome	2021-11-03		1
+GCF_000011325.1	ASM1132v1	Corynebacterium glutamicum ATCC 13032		ATCC 13032					GCF_000011325.1-RS_2024_12_11	Complete Genome	2005-01-21		1
+GCF_019048385.1	ASM1904838v1	Pantoea agglomerans		FDAARGOS 1447					GCF_019048385.1-RS_2025_04_28	Complete Genome	2021-06-28		3
+GCF_000832905.1	ASM83290v1	Heyndrickxia coagulans DSM 1 = ATCC 7050		ATCC 7050					GCF_000832905.1-RS_2025_04_07	Complete Genome	2015-02-05		1
+GCF_000014445.1	ASM1444v1	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293		ATCC 8293					GCF_000014445.1-RS_2025_04_11	Complete Genome	2006-10-13		2
+GCF_002224265.1	ASM222426v1	Vibrio vulnificus NBRC 15645 = ATCC 27562		ATCC 27562					GCF_002224265.1-RS_2025_03_05	Complete Genome	2017-07-24		2
+GCF_000010505.1	ASM1050v1	Porphyromonas gingivalis ATCC 33277		ATCC 33277					GCF_000010505.1-RS_2024_12_09	Complete Genome	2008-05-21		1
+GCF_006739385.1	ASM673938v1	Cutibacterium acnes subsp. acnes		NBRC 107605					GCF_006739385.1-RS_2025_04_15	Complete Genome	2019-06-11		1
+GCF_900475555.1	44257_B01	Micrococcus luteus NCTC 2665		NCTC 2665					GCF_900475555.1-RS_2024_12_11	Complete Genome	2018-06-17		1
+GCF_028891345.1	ASM2889134v1	Xylella fastidiosa		ICMP 15197					GCF_028891345.1-RS_2025_05_05	Complete Genome	2023-03-01		2
+GCF_019048105.1	ASM1904810v1	Providencia rettgeri		FDAARGOS 1450					GCF_019048105.1-RS_2025_03_11	Complete Genome	2021-06-28		3
+GCF_002023665.2	ASM202366v2	Elizabethkingia anophelis R26		R26					GCF_002023665.2-RS_2025_09_25	Complete Genome	2017-09-18		1
+GCF_001642675.1	ASM164267v1	Bradyrhizobium diazoefficiens USDA 110		USDA 110					GCF_001642675.1-RS_2025_04_07	Complete Genome	2016-05-12		1
+GCF_000011905.1	ASM1190v1	Dehalococcoides mccartyi 195		195					GCF_000011905.1-RS_2024_12_09	Complete Genome	2005-01-07		1
+GCF_034479305.1	ASM3447930v1	Shouchella clausii		ATCC 700160					GCF_034479305.1-RS_2024_12_09	Complete Genome	2023-12-19		1
+GCF_003258315.1	ASM325831v1	Bradymonas sediminis		FA350					GCF_003258315.1-RS_2025_03_29	Complete Genome	2018-06-20		1
